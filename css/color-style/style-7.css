@@ -1,0 +1,122 @@
+ul.tick li:before{  
+    font-family: 'Font Awesome 5 Free'; font-weight: bold;
+    content: '\f0a9'; 
+    position:absolute; top:0; left:0;
+    color:#d814d2;
+}
+.title:after{background: #d814d2; content:""; width: 56px; height: 2px; position: absolute; bottom: -18px; left: 0;}
+.title p{font-size: 20px; letter-spacing: 3px; color: #d814d2; text-transform: uppercase; margin-bottom: 0;}
+.readmore a{text-decoration: none; font-size: 18px; background: #d814d2; font-weight: bold; font-family: 'Montserrat', sans-serif; display: inline-block; padding:18px 38px; color: #fff;}
+.header-wrap .conInfo a:hover{color: #d814d2;}
+.bg-light {
+    background: #d814d2 !important;
+    padding: 0;
+}
+.navbar-light .navbar-nav .nav-link:hover{background: #d814d2; color: #fff;}
+.sticky{top:0; position:fixed; width:100%; left: 0; z-index:10000; background: #d814d2; height:65px; margin-top: 0; -webkit-box-shadow: 0px 5px 7px rgba(3, 3, 3, 0.11); -moz-box-shadow: 0px 5px 7px rgba(3, 3, 3, 0.11); box-shadow: 0px 5px 7px rgba(3, 3, 3, 0.11);}
+.lawyer_categories{background: #d814d2;}
+.counter-icon {
+    font-size: 60px; width: 90px; height: 90px; text-align: center; line-height: 90px; border-radius: 100%; border: 1px solid #d814d2; display: inline-block; color: #fff;
+}
+.counter-icon{color: #d814d2; font-size: 40px;}
+.practice-wrap h3 a:hover{color: #d814d2;}
+.icon_img{width: 90px; height: 90px; text-align: center; line-height: 90px; font-size: 42px; border-radius: 100%; border: 1px solid #d814d2; display: inline-block; color: #d814d2;
+
+    -moz-transition: all 400ms ease 0s;
+  -webkit-transition: all 400ms ease 0s;
+  -ms-transition: all 400ms ease 0s;
+  -o-transition: all 400ms ease 0s;
+  transition: all 400ms ease 0s;}
+  .testimonials-wrap .owl-dots button{width: 20px; height: 20px; border: 2px solid #d814d2; border-radius: 100%; background: #fff; margin: 5px;}
+.testimonials-wrap button.active{background: #d814d2;}
+.advice-wrap .phonewrp a:hover{color: #d814d2;}
+.blog-detail h3 a{font-size:24px; font-weight:bold; color:#d814d2; text-decoration:none;}
+.contact-wrap:after{background: #d814d2; content: ""; width:50%; height: 100%; position: absolute; top: 0; right: 0; z-index: -1;}
+.form-group .btn{background: #d814d2; letter-spacing: 2px; border-radius: 0; font-family: 'Montserrat', sans-serif; font-size: 16px; color: #fff; text-transform: uppercase; padding: 12px 28px;}
+.newsletter-wrap{background: #d814d2; padding: 35px 45px; z-index: 1000; position: relative;}
+.newsletter-wrap form input[type="submit"] {
+        background: #d814d2 none repeat scroll 0 0;
+        border: medium none;
+        z-index: 1000;
+        color: #ffffff;
+        font-size: 20px;
+        cursor: pointer;
+        font-weight: bold;
+        padding: 0 30px;
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        border-radius: 0;
+        top: 10px;
+        transition: all 0.35s ease-in-out;
+        -webkit-transition: all 0.35s ease-in-out;
+        -moz-transition: all 0.35s ease-in-out;
+        -ms-transition: all 0.35s ease-in-out;
+        -o-transition: all 0.35s ease-in-out;
+}
+.footer-links li a:hover{color: #d814d2;}
+.blog-pagination a {display: inline-block;
+    width: 50px;
+    height: 50px;
+    text-align: center; text-decoration: none;
+    line-height: 50px;
+    color: #d814d2;
+    border: 1px solid #d814d2;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    margin: 3px;
+}
+.blog-pagination a:hover, .blog-pagination a.active {
+    background: #d814d2;
+    color: #ffffff;
+}
+.single-widgets:hover{border-color: #d814d2;}
+.single-widgets.widget_search form button {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    bottom: 0px;
+    cursor: pointer;
+    border-radius: 4px;
+    background: #d814d2;
+    color: #ffffff;
+    border: 0;
+    font-size: 14px;
+    line-height: 50px;
+    height: 50px;
+    width: 52px;
+}
+.category_wrp li a:hover{color: #d814d2;}
+.tagswrp li a:hover{background: #d814d2; color: #fff; border-color: #d814d2;}
+blockquote {
+    font-size: 14px;
+    font-style: italic;
+    line-height: 24px;
+    background: #fff4e6;
+    padding: 25px;
+    border-left: 8px solid #d814d2;
+    margin: 20px 0;
+}
+.bannerform .sub{box-shadow: 0 4px 5px rgba(0, 0, 0, 0.15);
+    color: #fff;
+    font-size: 15px;
+    text-transform: uppercase;
+    background: #d814d2;
+    font-weight: bold;
+    padding: 14px 30px; border: none;
+    display: inline-block;}
+
+@media screen and (max-width: 990px){
+    .contact-wrap{background: #d814d2;}
+}
+
+
+
+
+
+
+
+
+
+
