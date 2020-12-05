@@ -770,6 +770,21 @@ button:focus{outline: none;}
 
 .contact_map{pointer-events: none;}
 
+
+/*********************************************
+        Commissioner css
+*********************************************
+
+
+.about-wrap{padding: 60px 0;}
+.about-wrap h3{font-size: 48px; font-weight: 800; text-transform: uppercase;}
+.about-wrap h3 span{color: #0d72ae;}
+.aboutImg{margin-bottom: 15px;}.about-wrap .readmore{margin-top: 40px;}
+.about-wrap .title h1{}
+.about_box{margin-left: 30px;}
+.subText{font-size: 18px; font-weight: 600; color: #000; font-family: 'Montserrat', sans-serif; margin-bottom: 15px; padding-top: 15px;}
+.about-wrap p{color: #656565;}
+
 /*********************************************
         Logos css
 *********************************************/
